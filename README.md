@@ -1,6 +1,6 @@
 # SalesHub
 
-Link of Detailed View of the Project: https://drive.google.com/drive/folders/149L0GlNxpn6HVuohWU0O3G3DWCtbfslj
+Link of Detailed View of the Project: [https://drive.google.com/drive/folders/149L0GlNxpn6HVuohWU0O3G3DWCtbfslj](https://drive.google.com/drive/folders/1Pp-3mcoXPdtcHpID5pMhAS1HBWpvdVsM)
 
 Sales Intelligence Hub is an interactive Power BI analytics solution designed to transform complex retail data into actionable business insights. By analyzing revenue across multiple cities and customer segments, this project provides a comprehensive view of operational performance and consumer behavior.  
 
